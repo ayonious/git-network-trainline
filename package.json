@@ -1,0 +1,26 @@
+{
+  "name": "git-network-trainline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "autoGen.js",
+  "scripts": {},
+  "keywords": [
+    "git",
+    "javascript",
+    "graph",
+    "map",
+    "trainline"
+  ],
+  "author": "Nahiyan Kamal",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayonious/git-network-trainline.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ayonious/git-network-trainline/issues"
+  },
+  "homepage": "https://github.com/ayonious/git-network-trainline#readme"
+}
